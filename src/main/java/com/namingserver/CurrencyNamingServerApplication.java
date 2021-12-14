@@ -12,7 +12,7 @@ public class CurrencyNamingServerApplication {
 		SpringApplication.run(CurrencyNamingServerApplication.class, args);
 
 	
-	
+	System.out.println("Narender Singh ");
 	}
 
 }
